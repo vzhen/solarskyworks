@@ -1,10 +1,9 @@
-<div ng-repeat="(key, service) in services | orderBy:'id':true" class="list cf">
+<div ng-repeat="(key, service) in services" class="list cf">
 	<div class="list-media">
 		<img ng-src="{{service.media}}">
 	</div>
 
 	<div class="list-info">
-		{{service.id}}
 		<h1 class="heading">{{service.title}}</h1>
 		<div ng-bind-html="service.description"></div>
 	</div>

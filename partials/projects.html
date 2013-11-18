@@ -1,4 +1,4 @@
-<div ng-repeat="val in projects | orderBy:'media':false" class="list cf">
+<div ng-repeat="val in projects | orderObjectBy:'id':true" class="list cf">
 	<div class="list-media">
 		<img ng-src="{{val.media}}">
 	</div>

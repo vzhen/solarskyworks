@@ -49,13 +49,14 @@
 	"projects":
 		{
 			"p01": {
+				"id": 1,
 				"title": "Solar Fencing Light",
 				"media": "assets/images/projects/project1.jpg",
 				"location": "Klang Valley",
-				"type": "Fencing Light System",
-				"id": "1"
+				"type": "Fencing Light System"
 			},
 			"p02": {
+				"id": 2,
 				"title": "Residential Solar 9kWh",
 				"media": "assets/images/projects/project2.jpg",
 				"location": "Negeri Sembilan Lukut",
@@ -63,90 +64,105 @@
 				"type": "Solar Gadget - Autogate"
 			},
 			"p03": {
+				"id": 3,
 				"title": "Swiftlet House 200Wp",
 				"media": "assets/images/projects/project3.jpg",
 				"location": "Negeri Sembilan Seremban",
 				"type": "Off-Grid System"
 			},
 			"p04": {
+				"id": 4,
 				"title": "Swiftlet House 300Wp",
 				"media": "assets/images/projects/project4.jpg",
 				"location": "Negeri Sembilan Sepang",
 				"type": "Off-Grid System"
 			},
 			"p05": {
+				"id": 5,
 				"title": "Swiftlet House 300Wp",
 				"media": "assets/images/projects/project5.jpg",
 				"location": "Pahang Kuala Lipis",
 				"type": "Off-Grid System"
 			},
 			"p06": {
+				"id": 6,
 				"title": "Swiftlet House 550Wp",
 				"media": "assets/images/projects/project6.jpg",
 				"location": "Pahang Jerantut",
 				"type": "Off-Grid System"
 			},
 			"p07": {
+				"id": 7,
 				"title": "Swiftlet House 1600Wp",
 				"media": "assets/images/projects/project7.jpg",
 				"location": "Perak Bidor",
 				"type": "Off-Grid System"
 			},
 			"p08": {
+				"id": 8,
 				"title": "Swiftlet House 520Wp",
 				"media": "assets/images/projects/project8.jpg",
 				"location": "Perak Kuala Kangsa",
 				"type": "Off-Grid System"
 			},
 			"p09": {
+				"id": 9,
 				"title": "Residential 1.2kWp + 1200AH Battery",
 				"media": "assets/images/projects/project9.jpg",
 				"location": "Pahang Mentakab",
 				"type": "Off-Grid System"
 			},
 			"p10": {
+				"id": 10,
 				"title": "Residential 530Wp + 800AH Battery",
 				"media": "assets/images/projects/project10.jpg",
 				"location": "Kluang Johor",
 				"type": "Off-Grid System"
 			},
 			"p11": {
+				"id": 11,
 				"title": "SMK Dato Harun School 1500Wp Utility",
 				"media": "assets/images/projects/project11.jpg",
 				"location": "Old Klang Road",
 				"type": "Off-Grid System"
 			},
 			"p12": {
+				"id": 12,
 				"title": "Residential 12kW Solar System",
 				"media": "assets/images/projects/project12.jpg",
 				"location": "Negeri Sembilan Lukut",
 				"type": "On-Grid System"
 			},
 			"p13": {
+				"id": 13,
 				"title": "Residential 6.2kWp Solar System",
 				"media": "assets/images/projects/project13.jpg",
 				"location": "Negeri Sembilan Seremban",
 				"type": "On-Grid System"
 			},
 			"p14": {
+				"id": 14,
 				"title": "Residential 4kWp Solar System",
 				"media": "assets/images/projects/project14.jpg",
 				"location": "Negeri Sembilan Lukut",
 				"type": "On-Grid System"
 			},
 			"p15": {
+				"id": 15,
 				"title": "Factory 24kWp Solar System",
 				"media": "assets/images/projects/project15.jpg",
 				"location": "Negeri Sembilan Seremban",
 				"type": "On-Grid System"
 			},
 			"p16": {
+				"id": 16,
 				"title": "Residential 3.12kW Solar System",
 				"media": "assets/images/projects/project16.jpg",
 				"location": "Negeri Sembilan Seremban",
 				"type": "On-Grid System"
 			},
 			"p17": {
+				"id": 17,
 				"title": "Shop 9.18kW Solar System",
 				"media": "assets/images/projects/project17.jpg",
 				"location": "Negeri Sembilan Lukut",
