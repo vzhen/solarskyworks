@@ -10,6 +10,11 @@
 			"title": "Service Title",
 			"media": "assets/images/projects/sample/sample5.jpg",
 			"description": "Some short and focus description."
+		},
+		"s03": {
+			"title": "If description too long",
+			"media": "assets/images/projects/sample/sample5.jpg",
+			"description": "Our design of the Solar PV system uses market leading branded equipment to ensure durability and serviceability. Internet Connected Monitoring system is provided for you to daily monitor your PV output. We even package our Residential PV systems into few standard packages for better control of quality of our equipment supplies. That's how committed we are in designing our products.systems into few standard. All Solar PV  Module Generated Energy to be 100% sell back to TNB with 21 years guarantee contract. Please click HERE to view our life Solar PV Monitoring over Internet."
 		}
 	},
 

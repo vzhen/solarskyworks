@@ -143,6 +143,10 @@ footer{
 	color: rgb(102,102,102);
 }
 
+address{
+	font-weight: 300;
+}
+
 .header-inner{
 	position: relative;
 	height: inherit;
@@ -240,7 +244,9 @@ nav{
 
 .list-info{
 	text-align: center;
-	padding-top: 40px;
+	padding: 40px 10px 0px 10px;
+	overflow: hidden;
+	font-weight: 300;
 }
 
 /*-------------------------------------------------------LOGO*/
@@ -320,5 +326,6 @@ nav{
 
 	.list-info{
 		padding-top: 10px;
+		font-weight: 300;
 	}
 }
