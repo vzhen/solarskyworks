@@ -112,7 +112,7 @@ a{
 	text-decoration: none;
 }
 img{
-	max-width: 100%;
+	width: 100%;
 	vertical-align: bottom;
 }
 *{
@@ -340,4 +340,15 @@ nav{
 		font-weight: 300;
 		display: block;
 	}
+}
+
+@-moz-document url-prefix() {
+    .menu {
+    	width: 100%;
+    	display: table;
+    	table-layout: fixed;
+  	}
+    .menu li{
+        display: table-cell;
+    }
 }
