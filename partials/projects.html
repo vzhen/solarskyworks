@@ -1,12 +1,11 @@
-<div ng-repeat="project in projects" class="list cf">
+<div ng-repeat="val in projects | orderBy:'media':false" class="list cf">
 	<div class="list-media">
-		<img ng-src="{{project.media}}">
+		<img ng-src="{{val.media}}">
 	</div>
 
 	<div class="list-info">
-		<h1 class="heading">{{project.title}}</h1>
-		{{project.location}}<br>
-		{{project.customer}}<br>
-		{{project.type}}<br>
+		<h1 class="heading">{{val.title}}</h1>
+		{{val.location}}<br>
+		{{val.type}}<br>
 	</div>
 </div>

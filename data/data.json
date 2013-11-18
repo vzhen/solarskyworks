@@ -2,19 +2,46 @@
 	"services":
 	{
 		"s01": {
-			"title": "Sample Data",
-			"media": "assets/images/projects/sample/sample4.jpg",
-			"description": "Some short and focus description."
+			"id": 1,
+			"title": "On-Grid System",
+			"media": "assets/images/services/service1.jpg",
+			"description": "Our design of the Solar PV system uses market leading branded equipment to ensure durability and serviceability.<br><br>Internet Connected Monitoring system is provided for you to daily monitor your PV output. We even package our Residential PV systems into few standard packages for better control of quality of our equipment supplies. That's how committed we are in designing our product systems into few standard. <br><br>All Solar PV  Module Generated Energy to be 100% sell back to TNB with 21 years guarantee contract. <br>Please click HERE to view our life Solar PV Monitoring over Internet."
 		},
 		"s02": {
-			"title": "Service Title",
-			"media": "assets/images/projects/sample/sample5.jpg",
-			"description": "Some short and focus description."
+			"id": 2,
+			"title": "Off-Grid System",
+			"media": "assets/images/services/service2.jpg",
+			"description": "The term off-grid refers to not being connected to a grid, mainly used in terms of NOT being connected to the national TNB grid. <br><br>All Solar Generated Energy are being store to large battery bank for backup use. <br><br>We offer off-grid system mainly to farming area, student green lab and some GPS remote station which is without national grid. Please browse our project picture for more understanding of Off-Grid System."
 		},
 		"s03": {
-			"title": "If description too long",
-			"media": "assets/images/projects/sample/sample5.jpg",
-			"description": "Our design of the Solar PV system uses market leading branded equipment to ensure durability and serviceability. Internet Connected Monitoring system is provided for you to daily monitor your PV output. We even package our Residential PV systems into few standard packages for better control of quality of our equipment supplies. That's how committed we are in designing our products.systems into few standard. All Solar PV  Module Generated Energy to be 100% sell back to TNB with 21 years guarantee contract. Please click HERE to view our life Solar PV Monitoring over Internet."
+			"id": 3,
+			"title": "Solar Water Heater System",
+			"media": "assets/images/services/service3.jpg",
+			"description": "We offer both Color Steel and Full Stainless Steel Solar Water Heater System."
+		},
+		"s04": {
+			"id": 4,
+			"title": "Solar Gadget - Autogate System",
+			"media": "assets/images/services/service4.jpg",
+			"description": "You are save from house hacking work for power cable laying from inhouse DB-box. Damaged due to lightning effect are greatly reduce since power is not direct from utility. SUN power is renewable and non-stop. Our autogate sytem design with battery life time more than 3 years. Please click HERE  to view the performance of the Solar Operated Autogate."
+		},
+		"s05": {
+			"id": 5,
+			"title": "Solar Gadget - CCTV Surveillance System",
+			"media": "assets/images/services/service5.jpg",
+			"description": "By convert electricity powered by Solar – you are no worried of power outage."
+		},
+		"s06": {
+			"id": 6,
+			"title": "Solar Gadget - Scooter Battery Charging",
+			"media": "assets/images/services/service6.jpg",
+			"description": "With our customer-make Solar PV module, it is able to prolong battery life span. Engine easy to crank especially for Electronic Starter."
+		},
+		"s07": {
+			"id": 7,
+			"title": "Solution",
+			"media": "assets/images/services/service7.jpg",
+			"description": "If you have any system would like to be under solar powered, kindly <a href=\"#/findus\">send us enquiry</a>"
 		}
 	},
 
@@ -22,24 +49,107 @@
 	"projects":
 		{
 			"p01": {
-				"title": "Shop Solar System 24kWh",
-				"media": "assets/images/projects/sample/sample3.jpg",
-				"location": "Negeri Sembilan Lukut",
-				"customer": "Chok Chun Chew",
-				"type": "On-Grid System"
+				"title": "Solar Fencing Light",
+				"media": "assets/images/projects/project1.jpg",
+				"location": "Klang Valley",
+				"type": "Fencing Light System",
+				"id": "1"
 			},
 			"p02": {
 				"title": "Residential Solar 9kWh",
-				"media": "assets/images/projects/sample/sample2.jpg",
-				"location": "Negeri Sembilan Port Dickson",
-				"customer": "Chok Wee Ching",
-				"type": "Off-Grid System"
+				"media": "assets/images/projects/project2.jpg",
+				"location": "Negeri Sembilan Lukut",
+				"customer": "Cheok Li Sheng",
+				"type": "Solar Gadget - Autogate"
 			},
 			"p03": {
-				"title": "Residential Solar Fit 6kWh",
-				"media": "assets/images/projects/sample/sample1.jpg",
-				"location": "Negeri Sembilan Kuala Pilah",
-				"customer": "Chok Wee Yee",
+				"title": "Swiftlet House 200Wp",
+				"media": "assets/images/projects/project3.jpg",
+				"location": "Negeri Sembilan Seremban",
+				"type": "Off-Grid System"
+			},
+			"p04": {
+				"title": "Swiftlet House 300Wp",
+				"media": "assets/images/projects/project4.jpg",
+				"location": "Negeri Sembilan Sepang",
+				"type": "Off-Grid System"
+			},
+			"p05": {
+				"title": "Swiftlet House 300Wp",
+				"media": "assets/images/projects/project5.jpg",
+				"location": "Pahang Kuala Lipis",
+				"type": "Off-Grid System"
+			},
+			"p06": {
+				"title": "Swiftlet House 550Wp",
+				"media": "assets/images/projects/project6.jpg",
+				"location": "Pahang Jerantut",
+				"type": "Off-Grid System"
+			},
+			"p07": {
+				"title": "Swiftlet House 1600Wp",
+				"media": "assets/images/projects/project7.jpg",
+				"location": "Perak Bidor",
+				"type": "Off-Grid System"
+			},
+			"p08": {
+				"title": "Swiftlet House 520Wp",
+				"media": "assets/images/projects/project8.jpg",
+				"location": "Perak Kuala Kangsa",
+				"type": "Off-Grid System"
+			},
+			"p09": {
+				"title": "Residential 1.2kWp + 1200AH Battery",
+				"media": "assets/images/projects/project9.jpg",
+				"location": "Pahang Mentakab",
+				"type": "Off-Grid System"
+			},
+			"p10": {
+				"title": "Residential 530Wp + 800AH Battery",
+				"media": "assets/images/projects/project10.jpg",
+				"location": "Kluang Johor",
+				"type": "Off-Grid System"
+			},
+			"p11": {
+				"title": "SMK Dato Harun School 1500Wp Utility",
+				"media": "assets/images/projects/project11.jpg",
+				"location": "Old Klang Road",
+				"type": "Off-Grid System"
+			},
+			"p12": {
+				"title": "Residential 12kW Solar System",
+				"media": "assets/images/projects/project12.jpg",
+				"location": "Negeri Sembilan Lukut",
+				"type": "On-Grid System"
+			},
+			"p13": {
+				"title": "Residential 6.2kWp Solar System",
+				"media": "assets/images/projects/project13.jpg",
+				"location": "Negeri Sembilan Seremban",
+				"type": "On-Grid System"
+			},
+			"p14": {
+				"title": "Residential 4kWp Solar System",
+				"media": "assets/images/projects/project14.jpg",
+				"location": "Negeri Sembilan Lukut",
+				"type": "On-Grid System"
+			},
+			"p15": {
+				"title": "Factory 24kWp Solar System",
+				"media": "assets/images/projects/project15.jpg",
+				"location": "Negeri Sembilan Seremban",
+				"type": "On-Grid System"
+			},
+			"p16": {
+				"title": "Residential 3.12kW Solar System",
+				"media": "assets/images/projects/project16.jpg",
+				"location": "Negeri Sembilan Seremban",
+				"type": "On-Grid System"
+			},
+			"p17": {
+				"title": "Shop 9.18kW Solar System",
+				"media": "assets/images/projects/project17.jpg",
+				"location": "Negeri Sembilan Lukut",
 				"type": "On-Grid System"
 			}
 		}
