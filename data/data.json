@@ -1,0 +1,41 @@
+{
+	"services":
+	{
+		"s01": {
+			"title": "Sample Data",
+			"media": "assets/images/projects/sample/sample4.jpg",
+			"description": "Some short and focus description."
+		},
+		"s02": {
+			"title": "Service Title",
+			"media": "assets/images/projects/sample/sample5.jpg",
+			"description": "Some short and focus description."
+		}
+	},
+
+
+	"projects":
+		{
+			"p01": {
+				"title": "Shop Solar On-Grid System",
+				"media": "assets/images/projects/sample/sample3.jpg",
+				"location": "Negeri Sembilan Lukut",
+				"customer": "Chok Chun Chew",
+				"type": "24kWh"
+			},
+			"p02": {
+				"title": "Residential Solar On-Grid System",
+				"media": "assets/images/projects/sample/sample2.jpg",
+				"location": "Negeri Sembilan Port Dickson",
+				"customer": "Chok Wee Ching",
+				"type": "9kWh"
+			},
+			"p03": {
+				"title": "Residential On-Grid Solar Fit",
+				"media": "assets/images/projects/sample/sample1.jpg",
+				"location": "Negeri Sembilan Kuala Pilah",
+				"customer": "Chok Wee Yee",
+				"type": "6kWh"
+			}
+		}
+}
