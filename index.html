@@ -2,7 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml" ng-app="app">
 
 <head>
-
+	<!--Start of Zopim Live Chat Script-->
+	<script type="text/javascript">
+		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+		_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+		$.src='//cdn.zopim.com/?g234VYLclKcapnqdI8ZtMlXdmsWAdP2l';z.t=+new Date;$.
+		type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+	</script>
+	<!--End of Zopim Live Chat Script-->	
+	<link rel="shortcut icon" href="assets/images/logo/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="assets/css/index.css">
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 	<!-- Sets initial viewport load and disables zooming  -->
@@ -16,8 +27,6 @@
   <script src="js/lib/angularjs/1.2.1/angular-route.min.js"></script>
   <script src="js/lib/angularjs/1.2.1/angular-sanitize.min.js"></script>
   <script src="app.js"></script>
-  <link rel="stylesheet" type="text/css" href="assets/css/index.css">
-  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
   <!--[if IE]>
   	<style type="text/css">
 			.menu{
@@ -94,7 +103,7 @@
 
 	<nav>
 		<ul class="menu">
-			<li><a href="#">Home</a></li>
+			<li><a href="#" class="button">Home</a></li>
 			<li><a href="#/services">Services</a></li>
 			<li><a href="#/projects">Projects</a></li>
 			<li><a href="#/findus">Find us</a></li>
