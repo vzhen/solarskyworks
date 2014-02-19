@@ -156,6 +156,7 @@ address{
 	height: inherit;
 	width: inherit;
 	background: rgba(0,0,0,0.2);
+  color: #FFFFFF;
 }
 
 .header-content{
@@ -306,10 +307,7 @@ nav{
 }
 
 .title{
-	font-size: 3.5em;
-	line-height: 120px;
-	color: #FFFFFF;
-	float: left;
+	font-size: 3em;
 }
 /*-------------------------------------------------------LOGO END*/
 
@@ -338,9 +336,8 @@ nav{
 	}
 
 	.title{
-		font-size: 2.5em;
+		font-size: 2em;
 		float: none;
-		line-height: 90px;
 	}
 
 	.list{
