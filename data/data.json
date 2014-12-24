@@ -167,6 +167,27 @@
 				"media": "assets/images/projects/project17.jpg",
 				"location": "Negeri Sembilan Lukut",
 				"type": "On-Grid System"
+			},
+			"p18": {
+				"id": 18,
+				"title": "Warehouse 71.91kWp Solar System",
+				"media": "assets/images/projects/project18.jpg",
+				"location": "Negeri Sembilan, Port Dickson, Lukut",
+				"type": "Retrofit GCPV System"
+			},
+			"p19": {
+				"id": 19,
+				"title": "Shop 12kWp Solar System",
+				"media": "assets/images/projects/project19.jpg",
+				"location": "Negeri Sembilan, Port Dickson, Lukut",
+				"type": "Retrofit GCPV System"
+			},
+			"p20": {
+				"id": 20,
+				"title": "Industry 12kWp Solar System",
+				"media": "assets/images/projects/project20.jpg",
+				"location": "KL, Kepong",
+				"type": "Retrofit GCPV System"
 			}
 		}
 }
