@@ -20,6 +20,9 @@ var app = angular.module('app', dependencies)
 			$routeProvider.when('/findus', {
 				templateUrl: 'partials/findus.html'
 			});
+			$routeProvider.when('/livedata', {
+				templateUrl: 'partials/livedata.html'
+			});
 			$routeProvider.when('/external', {
 				templateUrl: 'partials/external.html'
 			});

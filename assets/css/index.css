@@ -372,3 +372,12 @@ nav{
         display: table-cell;
     }
 }
+
+.notification {
+	background: red;
+	color: white;
+	padding: 0px 2px;
+	position: absolute;
+	top: 0;
+	right: 25px;
+}
