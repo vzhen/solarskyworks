@@ -195,6 +195,13 @@
 				"media": "assets/images/projects/project21.jpg",
 				"location": "Lukut, Port Dickson",
 				"type": "Retrofit GCPV System"
+			},
+			"p22": {
+				"id": 22,
+				"title": "40kWp Solar System",
+				"media": "assets/images/projects/project22.jpg",
+				"location": "",
+				"type": "Self Consumption Solar PV"
 			}
 		}
 }
