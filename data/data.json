@@ -188,6 +188,13 @@
 				"media": "assets/images/projects/project20.jpg",
 				"location": "KL, Kepong",
 				"type": "Retrofit GCPV System"
+			},
+			"p21": {
+				"id": 21,
+				"title": "Warehouse 180kWp Solar System",
+				"media": "assets/images/projects/project21.jpg",
+				"location": "Lukut, Port Dickson",
+				"type": "Retrofit GCPV System"
 			}
 		}
 }
