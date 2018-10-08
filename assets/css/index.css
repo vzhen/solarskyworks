@@ -309,6 +309,12 @@ nav{
 .title{
 	font-size: 3em;
 }
+.company-reg {
+	margin-bottom: 5px;
+}
+img.facebook-link-image {
+	border-radius: 5px;
+}
 /*-------------------------------------------------------LOGO END*/
 
 
