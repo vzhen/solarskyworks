@@ -249,14 +249,12 @@ nav{
 	border-bottom: 1px solid #BDBDBD;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
-	display: table;
+	/* display: table; */
 	width: 100%;
 }
 
 .list-media{
-	width: 320px;
 	text-align: center;
-	display: table-cell;
 	vertical-align: middle;
 	font-weight: 300;
 }
@@ -267,10 +265,9 @@ nav{
 
 .list-info{
 	text-align: center;
-	padding: 0px 20px 0px 20px;
+	padding: 10px 20px 10px 20px;
 	overflow: hidden;
 	font-weight: 300;
-	display: table-cell;
 	vertical-align: middle;
 }
 
@@ -362,7 +359,6 @@ img.facebook-link-image {
 	}
 
 	.list-info{
-		padding-top: 10px;
 		font-weight: 300;
 		display: block;
 	}
